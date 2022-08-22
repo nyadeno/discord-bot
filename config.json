@@ -1,0 +1,8 @@
+{
+    "botToken": "MTAxMDg5MjQ0MDgzNzgyMDQyOA.GdKq31.iTCIuSb_fXjYX8X57UTHGQsfdE6aUm4YXDG1Os",
+    "prefix": "*",
+    "command_name": "start",
+    
+    "give_role": false,
+    "role_name": "ROLE-NAME-HERE"
+}
